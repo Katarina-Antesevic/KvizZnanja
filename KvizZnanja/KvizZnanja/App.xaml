@@ -1,0 +1,19 @@
+﻿<Application x:Class="KvizZnanja.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KvizZnanja"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="BasicColor1" Color="White"></SolidColorBrush>
+        <SolidColorBrush x:Key="BasicColor2" Color="Violet"></SolidColorBrush>
+        <SolidColorBrush x:Key="BasicColor3" Color="DeepSkyBlue"></SolidColorBrush>
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="BorderBrush" Value="{StaticResource BasicColor2}"></Setter>
+        </Style>
+        <Style x:Key="ButtonStyle2" TargetType="Button">
+            <Setter Property="BorderBrush" Value="{StaticResource BasicColor3}"></Setter>
+        </Style>
+
+       
+    </Application.Resources>
+</Application>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="KvizZnanja.Kategorije"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KvizZnanja"
+        mc:Ignorable="d"
+        WindowStartupLocation ="CenterScreen" 
+        Title="KATEGORIJE" Height="600" Width="800" Icon="Images/question-mark.png">
+    <Window.Background>
+        <ImageBrush ImageSource="Images/kategorije.jpg" Stretch="Fill" />
+    </Window.Background>
+    <Grid Margin="88,59,83,40">
+        <Button x:Name="Istorija" Content="Istorija" Style="{StaticResource ButtonStyle1}"  Background="Violet" Click="Kategorija_Istorija" FontSize="30" HorizontalAlignment="Left" Margin="96,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="70" Width="170" FontWeight="Bold"></Button>
+        <Button x:Name="Geografija" Content="Geografija" Style="{StaticResource ButtonStyle2}" Background="DeepSkyBlue" Click="Kategorija_Geografija" FontSize="30"  HorizontalAlignment="Left" Margin="352,187,0,0" VerticalAlignment="Top" Height="70" Width="170" FontWeight="Bold"/>
+        <Button x:Name="Sport" Content="Sport" FontSize="30" Style="{StaticResource ButtonStyle2}" Background="DeepSkyBlue" Click="Kategorija_Sport" HorizontalAlignment="Left" Margin="96,305,0,0" VerticalAlignment="Top" Height="70" Width="170" FontWeight="Bold"/>
+        <Button x:Name="Filmovi" Content="Filmovi" FontSize="30" Style="{StaticResource ButtonStyle1}"  Background="Violet" Click="Kategorija_Filmovi" HorizontalAlignment="Left" Margin="352,305,0,0" VerticalAlignment="Top" Height="70" Width="170" FontWeight="Bold"/>
+        <Label x:Name="label" Content="Izaberite kategoriju" FontSize="35" HorizontalAlignment="Left" Margin="171,98,0,0" VerticalAlignment="Top" Foreground="White" RenderTransformOrigin="0.486,0.454" />
+        <Button x:Name="NapustanjeIgre" Content="Napusti kviz" Style="{StaticResource ButtonStyle2}" Background="DeepSkyBlue" Click="Napusti_Igru" FontSize="28"  HorizontalAlignment="Left" Margin="17,17,0,0" VerticalAlignment="Top" Height="70" Width="170" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

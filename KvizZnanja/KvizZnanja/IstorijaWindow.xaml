@@ -1,0 +1,36 @@
+﻿<Window x:Class="KvizZnanja.IstorijaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KvizZnanja"
+        mc:Ignorable="d" 
+        WindowStartupLocation ="CenterScreen" 
+        Title="ISTORIJA" Height="700" Width="800" Icon="Images/svitak.png" >
+
+    <Window.Background>
+        <ImageBrush ImageSource="Images/pozadina.jpg" Stretch="Fill"  />
+    </Window.Background>
+    <Grid>
+
+        <Image x:Name="slika" HorizontalAlignment="Left" Stretch="Fill" Height="270" Margin="155,32,0,0" VerticalAlignment="Top" Width="500">
+            <Image.Source>
+                <BitmapImage DecodePixelWidth="300" UriSource="Images/vojnici.jpg"  />
+            </Image.Source>
+        </Image>
+        <Label x:Name="pitanje" HorizontalContentAlignment="Center" Background="White"  FontSize="16" HorizontalAlignment="Left" Margin="155,336,0,0" VerticalAlignment="Top" Height="54" Width="500 " FontWeight="Bold"/>
+
+        <Button x:Name="pomoc"  Content="POMOC" Click="pomozi" Background="LightYellow" BorderBrush="Black" FontSize="16" HorizontalAlignment="Left" Margin="29,24,0,0" VerticalAlignment="Top" Height="44" Width="102" FontWeight="Bold"/>
+        <Button x:Name="odgovor1" Content="" Click="provjeriOdgovor" HorizontalAlignment="Left" Margin="72,437,0,0" VerticalAlignment="Top" Height="65" Width="250"/>
+        <Button x:Name="odgovor2" Content="" Click="provjeriOdgovor"  HorizontalAlignment="Left" Margin="482,437,0,0" VerticalAlignment="Top" Height="65" Width="250"/>
+        <Button x:Name="odgovor3" Content=""  Click="provjeriOdgovor" HorizontalAlignment="Left" Margin="72,522,0,0" VerticalAlignment="Top" Height="65" Width="250"/>
+        <Button x:Name="odgovor4" Content="" Click="provjeriOdgovor"  HorizontalAlignment="Left" Margin="483,522,0,0" VerticalAlignment="Top" Height="65" Width="250"/>
+        <Label x:Name="tacniOdgovori" Content="" HorizontalAlignment="Left" Margin="497,623,0,0" VerticalAlignment="Top" Width="280" Background="White" BorderBrush="Black" FontSize="20"/>
+        <ProgressBar Name="progressBar" Minimum="0" Maximum="8" HorizontalAlignment="Left" Height="35" Margin="20,623,0,0" VerticalAlignment="Top" Width="314"/>
+        <Button x:Name="napustiKviz"  Click="Napusti_Igru" Background="LightYellow" BorderBrush="Black" FontSize="16" HorizontalAlignment="Left" Margin="675,26,0,0" VerticalAlignment="Top" Height="44" Width="102" FontWeight="Bold">
+            <TextBlock Text="NAPUSTI KVIZ" TextWrapping="Wrap" TextAlignment="Center"/>
+        </Button>
+
+
+    </Grid>
+</Window>

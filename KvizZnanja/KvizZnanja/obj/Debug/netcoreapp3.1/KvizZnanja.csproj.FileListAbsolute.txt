@@ -1,0 +1,62 @@
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.exe
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.deps.json
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.runtimeconfig.json
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.runtimeconfig.dev.json
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.dll
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.pdb
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.csproj.AssemblyReference.cache
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja_MarkupCompile.cache
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja_MarkupCompile.lref
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.g.resources
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.AssemblyInfoInputs.cache
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.AssemblyInfo.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.csproj.CoreCompileInputs.cache
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.dll
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.pdb
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.genruntimeconfig.cache
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\FilmoviWindow.g.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\GeografijaWindow.g.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\IstorijaWindow.g.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\Kategorije.g.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\SportWindow.g.cs
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\FilmoviWindow.baml
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\GeografijaWindow.baml
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\IstorijaWindow.baml
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\Kategorije.baml
+C:\Users\AcerAspireE5\source\repos\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\SportWindow.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.exe
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.deps.json
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.runtimeconfig.json
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.runtimeconfig.dev.json
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\bin\Debug\netcoreapp3.1\KvizZnanja.pdb
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.csproj.AssemblyReference.cache
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\FilmoviWindow.g.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\GeografijaWindow.g.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\IstorijaWindow.g.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\Kategorije.g.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\SportWindow.g.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\App.g.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja_MarkupCompile.cache
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja_MarkupCompile.lref
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\App.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\FilmoviWindow.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\GeografijaWindow.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\IstorijaWindow.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\Kategorije.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\SportWindow.baml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.g.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.GeneratedMSBuildEditorConfig.editorconfig
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.AssemblyInfoInputs.cache
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.AssemblyInfo.cs
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.csproj.CoreCompileInputs.cache
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.pdb
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\prvi projekat\KvizZnanja\KvizZnanja\obj\Debug\netcoreapp3.1\KvizZnanja.genruntimeconfig.cache

@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1490877818-sport-badges05_82419.png" />
+    <None Remove="72752f5719a50f923ecc500d8138d343.jpg" />
+    <None Remove="clapperboard_cinema_icon-icons.com_66131.png" />
+    <None Remove="clapperboard_cinema_icon_190777.png" />
+    <None Remove="question-mark.png" />
+    <None Remove="quiztime.jpg" />
+    <None Remove="upitnici.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images/1490877818-sport-badges05_82419.png" />
+    <Resource Include="Images/clapperboard_cinema_icon-icons.com_66131.png" />
+    <Resource Include="Images/clapperboard_cinema_icon_190777.png" />
+    <Resource Include="Images/question-mark.png" />
+    <Resource Include="Images/quiztime.jpg" />
+    <Resource Include="Images/upitnici.jpg" />
+    <Resource Include="Images/movie.jpg" />
+    <Resource Include="Images/kategorije.jpg" />
+    <Resource Include="Images/willie.jpg" />
+    <Resource Include="Images/kum.jpg" />
+    <Resource Include="Images/joker.jpg" />
+    <Resource Include="Images/elle.jpg" />
+    <Resource Include="Images/cady.jpg" />
+    <Resource Include="Images/ring.jpg" />
+    <Resource Include="Images/oscar.jpg" />
+    <Resource Include="Images/os.jpg" />
+    <Resource Include="Images/teren.jpg" />
+    <Resource Include="Images/ali.jpg" />
+    <Resource Include="Images/medal.jpg" />
+    <Resource Include="Images/kobe.jpg" />
+    <Resource Include="Images/bolt.jpg" />
+    <Resource Include="Images/kris.jpg" />
+    <Resource Include="Images/fifa.jpg" />
+    <Resource Include="Images/pozadina.jpg" />
+    <Resource Include="Images/vojnici.jpg" />
+    <Resource Include="Images/svitak.png" />
+    <Resource Include="Images/hirosima.jpg" />
+    <Resource Include="Images/kolumbbo.jpg" />
+    <Resource Include="Images/Ivo.jpg" />
+    <Resource Include="Images/titanik.jpg" />
+    <Resource Include="Images/alkatraz.jpg" />
+    <Resource Include="Images/bijelaKuca.jpg" />
+    <Resource Include="Images/zastava.jpg" />
+    <Resource Include="Images/mapaa.jpg" />
+    <Resource Include="Images/kina.jpg" />
+    <Resource Include="Images/najmanja.jpg" />
+    <Resource Include="Images/cccp.jpg" />
+    <Resource Include="Images/stepenice.jpeg" />
+    <Resource Include="Images/United-Kingdom.jpg" />
+    <Resource Include="Images/rusija.jpg" />
+    <Resource Include="Images/australija.jpg" />
+    <Resource Include="Images/globe.png" />
+  
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+</Project>
+
